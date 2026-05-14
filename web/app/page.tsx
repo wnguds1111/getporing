@@ -13,6 +13,7 @@ export default function IndexPage() {
     { id: 'about', title: 'About Getporing', desc: '게임 소개 리소스 수급 필요(이미지, 텍스트)' },
     { id: 'meta', title: '마케팅 코드 및 메타태그', desc: '마케팅 스크립트, OG 태그 및 메타태그 정보 수급 필요' },
     { id: 'domain', title: '도메인 확인', desc: '도메인은 getporing.mygnjoy.com 으로 사용하는지 확인 필요' },
+    { id: 'login', title: '초기 로그인 방식', desc: '초기 로그인은 GNJOY 계정으로만 진행하는지 확인 필요' },
   ];
 
   return (
