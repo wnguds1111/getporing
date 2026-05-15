@@ -263,7 +263,7 @@ export default function IndexPage() {
                     <p>현재 구현된 사전예약 이벤트 웹페이지로 이동합니다.</p>
                   </div>
                 </Link>
-                <a href="/[ROZG] GetPoring Backoffice.pdf" target="_blank" rel="noopener noreferrer" className="link-card active-link">
+                <a href="/getporing-backoffice.pdf" target="_blank" rel="noopener noreferrer" className="link-card active-link">
                   <div className="link-icon">📄</div>
                   <div className="link-info">
                     <h3>어드민 (백오피스 기획서)</h3>
